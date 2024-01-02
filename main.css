@@ -1,0 +1,15 @@
+time {
+  display: block;
+}
+
+.post {
+  margin-bottom: 24px;
+}
+
+button {
+  margin-top: 6px;
+}
+
+form {
+  max-width: 300px;
+}
